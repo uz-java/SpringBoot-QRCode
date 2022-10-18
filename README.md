@@ -1,5 +1,14 @@
 ## QR Code Generator for Spring boot
 
+This app is very easy to use, you just click the clone and enter the required text and it will generate a qr code for you.
+
+QR codes are a special type of barcode created by Denso Wave Incorporated. QR codes encode text and numbers using a pattern of pixels that is designed to be easy for optical scanners to read.The README.md you are reading is designed to teach programmers how to encode information in a QR code.
+
+<p float="left">
+<img style="display:inline-block" src="https://raw.githubusercontent.com/kozakdenys/qr-code-styling/master/src/assets/facebook_example_new.png" width="240" />
+<img style="display:inline-block" src="https://raw.githubusercontent.com/kozakdenys/qr-code-styling/master/src/assets/qr_code_example.png" width="240" />
+<img style="display:inline-block" src="https://raw.githubusercontent.com/kozakdenys/qr-code-styling/master/src/assets/telegram_example_new.png" width="240" />
+</p>
 
 Examples
 --------
