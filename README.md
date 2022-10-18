@@ -105,3 +105,4 @@ public class QRCodeController {
         </dependency>
         
 ```
+ <a href="https://mvnrepository.com/search?q=com.google.zxing" target="_blank">Dependency (com.google.zxing) link</a>
