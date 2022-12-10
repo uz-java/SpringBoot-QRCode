@@ -2,6 +2,7 @@
 
 This app is very easy to use, you just click the clone and enter the required text and it will generate a qr code for you.
 
+
 QR codes are a special type of barcode created by Denso Wave Incorporated. QR codes encode text and numbers using a pattern of pixels that is designed to be easy for optical scanners to read.The README.md you are reading is designed to teach programmers how to encode information in a QR code.
 
 <p float="left">
