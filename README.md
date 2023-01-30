@@ -16,6 +16,7 @@
 
 
 
+
 ## QR Code Generator for Spring boot
 
 This app is very easy to use, you just click the clone and enter the required text and it will generate a qr code for you.
